@@ -15,7 +15,7 @@ No JavaScript was used.
 - HTML5
 - CSS3
 - GitHub Pages
-
+  
 ## Live Website
 https://username.github.io/ecostrideshoes/
 
