@@ -1,14 +1,9 @@
 
-/* HEADER STYLE -  - THE SAME DESIGN FOR ALL PAGES */
+
 header {
   background-color: white;
 }
-/*_______________________END_______________________*/
 
-
-
-
-/* NAVIGATOR - MENU PAGE LINKS - STYLE CHANGES */
 nav a {
     text-decoration: none; 
     padding: 5px 10px;
@@ -22,12 +17,8 @@ nav a:hover {
     border-radius: 4px;
     transition: 0.8s;
 }
-/*_____________________END_____________________*/
 
 
-
-
-/* BODY STYLE - THE SAME DESIGN FOR ALL PAGES */
 body {
   font-family: Arial;
   line-height: 1.5;
@@ -35,13 +26,8 @@ body {
   color: #333;
   text-align: left;
 }
-/*_____________________END_____________________*/
 
 
-
-
-
-/* PRODUCT PAGE - BACKGROUND COLOR CHANGES FOR PRODUCTS */
 #products-page main ul li {
     transition: background-color 0.3s ease;
     padding: 15px;
@@ -51,11 +37,8 @@ body {
 #products-page main ul li:hover {
     background-color: #ffffff;
 }
-/*___________________END___________________*/
 
 
-
-/* CONTACT PAGE - SOCIAL MEDIA LINKS */
 #contact-page .social-links a {
     text-decoration: none;
     padding: 5px 10px;
@@ -69,14 +52,10 @@ body {
     background-color: #297bbe;
     border-radius: 4px; 
 }
-/*________________END________________*/
 
 
-
-
-/* FOOTER STYLE - THE SAME DESIGN FOR ALL PAGES */
 footer p {
-    margin: 0;               /* Paragrafın varsayılan dış boşluklarını sıfırlar */
+    margin: 0;               
     font-size: 14px;         
 }
 
@@ -84,4 +63,5 @@ footer {
     background-color: white; 
     text-align: center;        
 }
-/*______________________END______________________*/
+
+
