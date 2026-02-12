@@ -17,7 +17,7 @@ No JavaScript was used.
 - GitHub Pages
   
 ## Live Website
-https://username.github.io/ecostrideshoes/
+[https://username.github.io/ecostrideshoes/](https://umutkaraustaoglu67.github.io/ecostrideshoes/)
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
